@@ -18,7 +18,7 @@ e) Obter informações sobre seu IP público (IP do NAT) <br />
 
 </div>
 
-## Regras:
+### Regras:
 <ol>
 <li>Python 3.9 e Sistema Operacional Linux </li>
 <li>Comentários no código são obrigatórios</li>
