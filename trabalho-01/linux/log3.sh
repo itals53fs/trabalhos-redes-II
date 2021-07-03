@@ -1,3 +1,12 @@
+#grupo:
+	#Camila de Souza Ferreira
+	#Érica Cristiana dos Santos
+	#Gabriel Morais Oliveira
+	#Marleison da Silva Rodrigues
+	#Tales Félix Gonçalves Cruz
+	#Ulisses Xavier Brandão
+
+
 echo -e 'Processando...\n'
 ifconfig > log3.txt #ifconfig lista as interface de redes, a informação esta sendo direcionada para o arquivo
 cat log3.txt | grep inet # cat exibe o arquvo, grep da meth todas linhas que contem 'ether'

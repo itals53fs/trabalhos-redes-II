@@ -1,3 +1,12 @@
+#grupo:
+	#Camila de Souza Ferreira
+	#Érica Cristiana dos Santos
+	#Gabriel Morais Oliveira
+	#Marleison da Silva Rodrigues
+	#Tales Félix Gonçalves Cruz
+	#Ulisses Xavier Brandão
+
+
 echo -e 'Processando...\n' #echo printa mensagens na tela
 #traceroute faz uma requisição e aquarda a resposta,
 traceroute google.com > log2.txt  # a resposta esta sendo direcionada para log2.txt
