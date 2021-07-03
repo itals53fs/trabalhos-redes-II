@@ -35,3 +35,5 @@ e) Obter informações sobre seu IP público (IP do NAT) <br />
 <li>Os trabalhos deverão ser compactados e anexados ao sistema.</li>
 <li>Em cada script ou log deverá ser colocado o nome dos participantes</li>
 <li>Os códigos devem ser comentados</li>
+
+<div>link repositório <a href="https://github.com/itals53fs/trabalhos-redes-II">repositório</a></div>
