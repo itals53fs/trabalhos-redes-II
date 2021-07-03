@@ -6,9 +6,9 @@
 	#Tales Félix Gonçalves Cruz
 	#Ulisses Xavier Brandão
 
-
-wget -qO- http://ipecho.net/plain > log5.txt
+#O site retonar o IP plúblico a requisição get (obter)
+wget -qO- http://ipecho.net/plain > log5.txt  #os dados estão sendo direcionados para o arquivo
 echo 'Seu ip pulblico é: ' 
 cat log5.txt
-echo -e '\n'
+echo ''
 exit
