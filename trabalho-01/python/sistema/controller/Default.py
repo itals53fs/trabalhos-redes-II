@@ -1,6 +1,6 @@
-from sistema import sistema 
+from ..view.Menu import Menu
 
-sistema.start()from ..view.Menu import Menu
+
 import urllib.request #Defines functions and classes which help in opening URLs 
 import timeit #Module that measures and calculates the time and execution of programs
 from getmac import get_mac_address #From the getmac library that searches for MAC addresses

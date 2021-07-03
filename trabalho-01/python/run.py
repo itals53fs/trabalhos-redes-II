@@ -1,3 +1,3 @@
-from sistema import sistema 
+from sistema import sistema
 
 sistema.start()
