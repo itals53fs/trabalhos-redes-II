@@ -1,4 +1,8 @@
 # trabalho I
+
+Instalar python -m pip install requests <br />
+Instalar python -m pip install getmac <br />
+
 para rodar os arquivos .sh der permição com o comando uma única vez, chmod +x "nome do arquivo" <br />
 
 dentro do diretório em que o arquivo de encontra: trabalhos-redes-II/tarabalho-01/linux $ chmod +x log1.sh <br />
