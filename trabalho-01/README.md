@@ -2,8 +2,13 @@
 ### Python
 O linux já vem com python instalado, se não tiver instale. <br/>
 para ver a versão basta rodar python3 --version <br/>
-Instalar pip install requests <br />
-Instalar pip install getmac <br />
+dependencias<br />
+sudo apt-get update <br />
+sudo apt-get upgrade <br />
+pip install requests <br />
+pip install getmac <br />
+sudo apt install traceroute <br />
+sudo apt install net-tools
 
 Executando o programa, python3 run.py ou [a versão do python que extiver usando] <br/>
 
