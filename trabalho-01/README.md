@@ -5,13 +5,13 @@ para ver a versão basta rodar python3 --version <br/>
 Instalar pip install requests <br />
 Instalar pip install getmac <br />
 
-Execuntando o programa, python3 run.py ou [a versão do python que extiver usando] <br/>
+Executando o programa, python3 run.py ou [a versão do python que extiver usando] <br/>
 
 
 ### Linux
 para rodar os arquivos .sh der permição com o comando uma única vez, chmod +x "nome do arquivo" <br />
 
-dentro do diretório em que o arquivo de encontra: trabalhos-redes-II/tarabalho-01/linux $ chmod +x log1.sh <br />
+dentro do diretório em que o arquivo de encontra: trabalhos-redes-II/trabalho-01/linux $ chmod +x log1.sh <br />
 
 depois rode o arquivo ./log1.sh <br />
 
