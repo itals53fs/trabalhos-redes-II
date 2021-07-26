@@ -10,7 +10,6 @@ hora = time.ctime()
 hora = hora.split()
 msg = 'Oi servidor, tudo bem? Minha hora eh: '+ hora[3]
 client.send(msg.encode())
-
 response = client.recv(4096)
 
 print(response)
