@@ -1,0 +1,12 @@
+grupo:
+	Camila de Souza Ferreira
+	Érica Cristiana dos Santos
+	Gabriel Morais Oliveira
+	Marleison da Silva Rodrigues
+	Tales Félix Gonçalves Cruz
+	Ulisses Xavier Brandão
+
+
+Comando dig – Este comando permite fazer a consultas detalhadas ao serviço DNS mostrando o resultado. Para instalação no Debian  e Ubuntu  utilize o comando : apt-get install dnsutils
+Utilizando o comando dig -v você verifica a versão garantindo que a instalação tenha sido concluída; Sua sintaxe simples será : dig [server] [name] [type]
+Exemplos de utilização: Nome de Domínio : dig hostinger.com.
